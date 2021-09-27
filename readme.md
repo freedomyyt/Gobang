@@ -61,4 +61,4 @@ ellipse(floor((mouseX-24)/48)*48+48, floor((mouseY-24)/48)*48+48, 40, 40);
 
 时间有限及课程本身取向，未去实现五子棋胜负的判断
 
-Freedomyyt SJTU
+--Freedomyyt SJTU
